@@ -1,4 +1,0 @@
-[info] DeviceSpec:
-[info] reply with empty
-[info] - should reading if no temperature is known *** FAILED ***
-[info]   42 did not equal 41 (DeviceSpec.scala:28)
