@@ -1,0 +1,3 @@
+[info] AkkaQuickstartSpec:
+[info] A Greeter Actor
+[info] - should pass on a greeting message when instructed to
